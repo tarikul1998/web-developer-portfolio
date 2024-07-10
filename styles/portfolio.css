@@ -31,7 +31,7 @@
   font-weight: bold;
   color: #181818;
 }
-.sectiom-description {
+.section-description {
   font-size: 18px;
   color: #757575;
 }
@@ -41,7 +41,7 @@
 
 /* HEADER */
 .header {
-  border-image: url(../images/developer.png), url(../images/header_bg.png);
+  background-image: url(../images/developer.png), url(../images/header_bg.png);
   background-repeat: no-repeat;
   background-position: top left, bottom right;
 }
